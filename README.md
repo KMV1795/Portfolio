@@ -1,6 +1,7 @@
 # portfolio
 
-A new Flutter project.
+A Web Applicatio showing protfolio.
+(Under Process)
 
 ## Getting Started
 
